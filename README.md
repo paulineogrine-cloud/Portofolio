@@ -12,7 +12,7 @@ Je suis une ingénieure diplômée en optique qui s'oriente vers le **machine le
 
 - **Frontend** : Vue.js 3, TypeScript, Vite
 - **Styling** : CSS avec designs modernes et responsifs
-- **Outils** : Git, Docker, Linux
+- **Outils** : Git
 
 ## 📦 Installation
 
