@@ -40,6 +40,12 @@ const projects = [
     description: "Application de vote en temps réel : une architecture Docker multi-services (Flask, Node.js, Java, PostgreSQL, Redis) permettant aux utilisateurs de voter pour leur école préférée avec synchronisation live des résultats.",
     github: "https://github.com/paulineogrine-cloud/Application-de-vote.git"
     // pas de site → pas de demo
+  },
+  {
+    title: "Projet ETNAIR",
+    description: "Plateforme ETNAIR avec API, frontend et infrastructure de déploiement pour gérer des fonctionnalités complètes autour d'un service web moderne de location de biens immobiliers.",
+    github: "git@github.com:paulineogrine-cloud/ETNA_AIR.git",
+    demo: "https://unread-stroller-barricade.ngrok-free.dev/home"
   }
 ]
 
