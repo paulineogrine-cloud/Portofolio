@@ -7,48 +7,19 @@
         <h2 class="section-title">Parcours Professionnel</h2>
         
         <div class="timeline">
-          <!-- 2020 - Diplôme -->
+          <!-- 2026 Mars - Present -->
           <div class="timeline-item">
             <div class="timeline-marker">
-              <div class="timeline-dot graduation"></div>
+              <div class="timeline-dot current"></div>
             </div>
             <div class="timeline-content">
-              <div class="timeline-date">2020</div>
-              <h3 class="timeline-title">🎓 Diplôme d'Ingénieure</h3>
-              <p class="timeline-company">Institut d'Optique Graduate School </p>
-            </div>
-          </div>
-
-          <!-- 2020-2023 - Piseo -->
-          <div class="timeline-item">
-            <div class="timeline-marker">
-              <div class="timeline-dot work"></div>
-            </div>
-            <div class="timeline-content">
-              <div class="timeline-date">2020 - 2023</div>
-              <h3 class="timeline-title">Ingénieure Optique</h3>
-              <p class="timeline-company">Piseo, Lyon</p>
+              <div class="timeline-date">Mars 2026 - Présent</div>
+              <h3 class="timeline-title">Formation developpeur d'application</h3>
               <ul class="timeline-list">
-                <li>Intégration et industrialisation de systèmes optiques et d'imagerie (Scan4all)</li>
-                <li>Traitement de données et automatisation avec Python</li>
-                <li>Pilotage de caméras et traitement d'image</li>
-              </ul>
-            </div>
-          </div>
-
-          <!-- 2024-2025 - Imagine Optic -->
-          <div class="timeline-item">
-            <div class="timeline-marker">
-              <div class="timeline-dot work"></div>
-            </div>
-            <div class="timeline-content">
-              <div class="timeline-date">Janvier 2024 - Août 2025</div>
-              <h3 class="timeline-title">Ingénieure Support et Application</h3>
-              <p class="timeline-company">Imagine Optic, Paris/Boston</p>
-              <ul class="timeline-list">
-                <li>Support technique pré et post-vente pour instruments d'imagerie</li>
-                <li>Mise en place de bancs de démonstration (métrologie, optique adaptative, microscopie)</li>
-                <li>Participation à des salons professionnels</li>
+                <li><strong>Environnement UNIX/Linux :</strong> Scripts d'installation et configuration d'environnements
+                 de travail (packages, alias, automatisation)</li>
+                <li><strong>Developpement Full Stack :</strong> Développement d'une applicatrion web complète
+                 (API, backend, front-end, gestion d'une base de données SQL)</li>
               </ul>
             </div>
           </div>
@@ -70,18 +41,51 @@
             </div>
           </div>
 
-          <!-- 2026 Mars - Present -->
+          <!-- 2024-2025 - Imagine Optic -->
           <div class="timeline-item">
             <div class="timeline-marker">
-              <div class="timeline-dot current"></div>
+              <div class="timeline-dot work"></div>
             </div>
             <div class="timeline-content">
-              <div class="timeline-date">Mars 2026 - Présent</div>
-              <h3 class="timeline-title">Développement Full Stack</h3>
+              <div class="timeline-date">Janvier 2024 - Août 2025</div>
+              <h3 class="timeline-title">Ingénieure Support et Application</h3>
+              <p class="timeline-company">Imagine Optic, Paris/Boston</p>
               <ul class="timeline-list">
-                <li><strong>Environnement UNIX/Linux :</strong> Scripts d'installation et configuration d'environnements</li>
-                <li><strong>Frontend :</strong> Développement de pages web (Vue.js, React, Angular)</li>
+                <li>Support technique en avant et après-vente pour instruments d'imagerie</li>
+                <li>Mise en place de bancs de démonstration (métrologie, optique adaptative, microscopie) chez nos 
+                  client ainsi que participation à des salons professionnels
+                </li>
+            
               </ul>
+            </div>
+          </div>
+
+          <!-- 2020-2023 - Piseo -->
+          <div class="timeline-item">
+            <div class="timeline-marker">
+              <div class="timeline-dot work"></div>
+            </div>
+            <div class="timeline-content">
+              <div class="timeline-date">2020 - 2023</div>
+              <h3 class="timeline-title">Ingénieure Optique</h3>
+              <p class="timeline-company">Piseo, Lyon</p>
+              <ul class="timeline-list">
+                <li>Intégration et industrialisation de systèmes optiques et d'imagerie </li>
+                <li>Traitement de données et automatisation et pilotage de caméras
+                  avec Python incluant le traitement d'image</li>
+              </ul>
+            </div>
+          </div>
+
+          <!-- 2020 - Diplôme -->
+          <div class="timeline-item">
+            <div class="timeline-marker">
+              <div class="timeline-dot graduation"></div>
+            </div>
+            <div class="timeline-content">
+              <div class="timeline-date">2020</div>
+              <h3 class="timeline-title">🎓 Diplôme d'Ingénieure</h3>
+              <p class="timeline-company">Institut d'Optique Graduate School </p>
             </div>
           </div>
         </div>
@@ -90,53 +94,80 @@
 
       <!-- Compétences -->
       <div class="skills-card">
-        <h2 class="section-title">Compétences</h2>
-        <div class="skills-grid">
-          <div>
-            <h3 class="category-title">Programmation</h3>
-            <div class="tags">
-              <span class="tag tag-blue">Python</span>
-              <span class="tag tag-blue">Matlab</span>
-              <span class="tag tag-dark">Unix/Linux</span>
-              <span class="tag tag-dark">Docker</span>
-            </div>
-          </div>
-          <div>
-            <h3 class="category-title">Frontend</h3>
-            <div class="tags">
-              <span class="tag tag-green">Vue.js</span>
-              <span class="tag tag-green">React</span>
-              <span class="tag tag-green">Angular</span>
-            </div>
-          </div>
-          <div>
-            <h3 class="category-title">Outils & ML</h3>
-            <div class="tags">
-              <span class="tag tag-purple">Keras</span>
-              <span class="tag tag-purple">TensorFlow</span>
-              <span class="tag tag-purple">ImageJ</span>
-            </div>
-          </div>
-        </div>
+  <h2 class="section-title">Compétences</h2>
+  <div class="skills-grid">
+    <div>
+      <h3 class="category-title">Langages</h3>
+      <div class="tags">
+        <span class="tag tag-blue">Python</span>
+        <span class="tag tag-blue">JavaScript</span>
+        <span class="tag tag-blue">Bash</span>
+        <span class="tag tag-blue">Matlab</span>
       </div>
+    </div>
+    <div>
+      <h3 class="category-title">Frontend</h3>
+      <div class="tags">
+        <span class="tag tag-green">Vue.js</span>
+        <span class="tag tag-green">React</span>
+        <span class="tag tag-green">Angular</span>
+      </div>
+    </div>
+    <div>
+      <h3 class="category-title">Backend & APIs</h3>
+      <div class="tags">
+        <span class="tag tag-orange">FastAPI</span>
+        <span class="tag tag-orange">REST APIs</span>
+        <span class="tag tag-orange">Python</span>
+      </div>
+    </div>
+    <div>
+      <h3 class="category-title">Base de données</h3>
+      <div class="tags">
+        <span class="tag tag-red">PostgreSQL</span>
+        <span class="tag tag-red">SQLite</span>
+        <span class="tag tag-red">pgAdmin</span>
+      </div>
+    </div>
+    <div>
+      <h3 class="category-title">Machine Learning</h3>
+      <div class="tags">
+        <span class="tag tag-purple">TensorFlow</span>
+        <span class="tag tag-purple">Keras</span>
+        <span class="tag tag-purple">ImageJ</span>
+      </div>
+    </div>
+    <div>
+      <h3 class="category-title">DevOps & Outils</h3>
+      <div class="tags">
+        <span class="tag tag-gray">Docker</span>
+        <span class="tag tag-gray">Linux</span>
+      </div>
+    </div>
+  </div>
+</div>
 
       <!-- Certifications -->
       <div class="certification-card">
         <h2 class="cert-title">Certification Deep Learning</h2>
         <p class="cert-subtitle">Coursera Spécialisation Deep Learning</p>
         <p class="cert-author">Par Andrew Ng</p>
+        <p class="cert-author"> Janvier - février 2026</p>
         <p class="cert-subtitle">
         RNN • CNN </p>
-
-        <p class="cert-details">
-        • Détection d’objets (YOLO) <br>
-        • Segmentation d’images (KU-net)<br>
-        • Détection de visages (DeepFace)<br>
-        • Implémentation de transfert de style neuronal
-        </p>
-
       </div>
 
+      <!-- Certification Développeur d'Application -->
+      <div class="certification-card">
+        <h2 class="cert-title">Certification Développeur d'Application</h2>
+        <p class="cert-subtitle">Formation Développement Full Stack</p>
+        <p class="cert-author"> 09 Mars au 19 juin 2026</p>
+
+        <a href="/attestation-deep-learning.pdf" download class="cert-download-btn">
+          📄 Télécharger l'attestation
+        </a>
+
+      </div>
     </div>
   </section>
 </template>
@@ -360,18 +391,38 @@ export default {
   background: linear-gradient(135deg, #10b981 0%, #059669 100%);
 }
 
+.tag-orange {
+  background: linear-gradient(135deg, #f97316 0%, #ea580c 100%);
+}
+
+.tag-red {
+  background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%);
+}
+
 .tag-purple {
   background: linear-gradient(135deg, #a855f7 0%, #9333ea 100%);
 }
 
+.tag-gray {
+  background: linear-gradient(135deg, #6b7280 0%, #4b5563 100%);
+}
+
 /* Certification Card */
 .certification-card {
-  background: linear-gradient(135deg, #2563eb 0%, #4338ca 100%);
+  background: rgba(255, 255, 255, 0.95);
   border-radius: 1.5rem;
-  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.3), 0 10px 10px -5px rgba(0, 0, 0, 0.2);
   padding: 3rem;
+  margin-bottom: 2rem;
   text-align: center;
-  color: white;
+  border: 2px solid rgba(139, 92, 246, 0.3);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.certification-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 25px 35px -5px rgba(0, 0, 0, 0.4);
+  border-color: rgba(139, 92, 246, 0.5);
 }
 
 
@@ -379,25 +430,46 @@ export default {
   font-size: 1.5rem;
   font-weight: bold;
   margin-bottom: 0.75rem;
+  color: #1e293b;
 }
 
 .cert-subtitle {
-  color: #dbeafe;
+  color: #475569;
   font-size: 1.125rem;
+  margin-bottom: 0.5rem;
 }
 
 .cert-details {
   text-align: left;
   margin-top: 10px;
-  color: #dbeafe; /* ou adapte selon ton thème */
+  color: #64748b;
   font-size: 0.95rem;
   line-height: 1.6;
 }
 
 .cert-author {
-  color: #bfdbfe;
+  color: #64748b;
   font-size: 0.875rem;
   margin-top: 0.5rem;
+}
+
+.cert-download-btn {
+  display: inline-block;
+  margin-top: 1.5rem;
+  padding: 0.75rem 1.5rem;
+  background: linear-gradient(135deg, #8b5cf6 0%, #6366f1 100%);
+  color: white;
+  border-radius: 0.5rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.cert-download-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 15px -3px rgba(139, 92, 246, 0.5);
+  background: linear-gradient(135deg, #7c3aed 0%, #4f46e5 100%);
 }
 
 /* Responsive */

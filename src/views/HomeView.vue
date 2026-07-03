@@ -2,10 +2,11 @@
   <section class="hero">
     <div class="overlay">
       <h1>Pauline Ogriné</h1>
-      <h2>Ingénieure Optique • Computer Vision • Future ML Engineer</h2>
-      <p>Ingénieure diplômée en optique, je m'oriente aujourd'hui vers le machine learning et deep learning
-          appliqué au traitement d'images ou de données. Je développe des pipelines de 
-          traitement et d'analyse de données.</p>
+      <h2>Ingénieure Optique • Computer Vision • Future Data Engineer</h2>
+      <p>Ingénieure diplômée en optique, je me spécialise aujourd'hui en Data Engineering. 
+        Je conçois et développe des pipelines de données robustes ainsi que des outils d'automatisation 
+        pour la collecte, le traitement, le stockage et l'analyse de données. 
+        Mon parcours en traitement d'images me permet d'aborder des problématiques mêlant qualité des données et intelligence artificielle.</p>
 
       <div class="buttons">
         <router-link to="/portfolio" class="btn">Voir mon travail</router-link>
